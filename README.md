@@ -1,4 +1,4 @@
-# emailVerification
+# jwt-auth-email-verification
 
 This is extension of my youtube tutorial Node.JS Authentication using JSON web token. This codes add a minimal replication of email verification for user registration.
 
